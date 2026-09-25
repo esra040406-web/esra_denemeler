@@ -1,3 +1,29 @@
+
+# MIS203 - Basic Programming
+
+## Student Information
+
+- **Name:** Esra Kaşık
+- **Student Number:** 2404109906
+- **Department:** Management Information Systems
+- **Course Name:** MIS203 - Basic Programming
+
+## Week 01 - Student Profile
+
+This Python program asks the user for their name, department, age, and career goal. It then prints a short student profile.
+
+## AI Usage
+
+- **AI Tool Used:** ChatGPT
+- **Prompt Used:** Create a simple Python program that asks the user for their name, department, age, and career goal, then prints a short student profile.
+- **What did you change?** I reviewed the code and understood how it works. I tested the program by entering my own information.
+
+
+
+
+
+
+
 ## Week 02
 
 * AI Tool Used: ChatGPT
